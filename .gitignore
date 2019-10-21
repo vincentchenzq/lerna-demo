@@ -1,0 +1,50 @@
+node_modules
+/.vs
+.idea
+.DS_Store
+public/.h3packagerc
+
+.DS_Store
+.history
+dist
+npm-debug.log
+debug.log
+static/.h3packagerc
+
+# local env files
+env.local.json
+env.local.js
+
+# 忽略使用WebStorm开发时，生成的缓存文件夹
+.idea
+# 忽略使用VSCode开发时，生成的缓存文件夹
+.vscode
+tree.md
+
+.DS_Store
+node_modules/
+dist/
+npm-debug.log*
+.history/
+yarn-debug.log*
+yarn-error.log*
+test/unit/coverage
+src/pages/login/App.vue
+
+# Editor directories and files
+.idea
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# local env files
+.env.local
+.env.*.local
+
+# vue client inspect file
+inspect.js
+inspect.*.js
+build/dev.conf.js
+.env.development
+.bashrc
